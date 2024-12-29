@@ -117,7 +117,7 @@
 支撐域：工單域</tr>
 通用域：用戶域</tr>
 
-![image]()
+![image](https://github.com/chengyuwho/4-1/blob/8777eee2bf99f8eb679b90986eda260c3b013e12/%E7%B7%A8%E7%A2%BC%E7%9A%84%E7%92%B0%E7%AF%802.png)
 
 <h2>5.1 領域層</h2>
 分層架構以領域層(domain)為核心來分層建設，領域層包含以下內容（工程結構模塊說明）：
