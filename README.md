@@ -122,7 +122,7 @@
 <h2>5.1 領域層</h2>
 分層架構以領域層(domain)為核心來分層建設，領域層包含以下內容（工程結構模塊說明）：
 
-![image]()
+![image](https://github.com/chengyuwho/4-1/blob/fcc79d81027536193c86b0a11573eba894a45cdd/%E9%A0%98%E5%9F%9F%E5%B1%A4.png)
 
 <h2>5.2 核心域代碼示例</h2>
 
