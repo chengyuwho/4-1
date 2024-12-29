@@ -132,7 +132,7 @@
 <h2>5.3 倉儲層代碼示例</h2>
 Repository適配dao實現數據持久化：
 
-![image]()
+![image](https://github.com/chengyuwho/4-1/blob/860c4b8c34a76f269b90a8dc1a683c1d42441145/%E5%80%89%E5%84%B2%E5%B1%A4%E4%BB%A3%E7%A2%BC.png)
 
 <h2>5.4 兩個注意點</h2>
 <h2>1、關注業務域的劃分</h2>
