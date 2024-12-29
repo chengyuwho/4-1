@@ -126,7 +126,7 @@
 
 <h2>5.2 核心域代碼示例</h2>
 
-![image]()
+![image](https://github.com/chengyuwho/4-1/blob/3cfc0cbace36de735adeaee1d6efb2013d2a4f4f/%E6%A0%B8%E5%BF%83%E5%8D%80%E5%9F%9F%E4%BB%A3%E7%A2%BC.png)
 
 部分代碼
 <h2>5.3 倉儲層代碼示例</h2>
